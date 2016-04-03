@@ -22,8 +22,8 @@ public class FightManager : MonoBehaviour {
     float player2moveSpeed = 0.5f;
 
     //player jump speeds
-    float player1jumpSpeed = 40.0f;
-    float player2jumpSpeed = 40.0f;
+    float player1jumpSpeed = 55.0f;
+    float player2jumpSpeed = 55.0f;
 
     //player velocity
     Vector3 player1Veloc;
