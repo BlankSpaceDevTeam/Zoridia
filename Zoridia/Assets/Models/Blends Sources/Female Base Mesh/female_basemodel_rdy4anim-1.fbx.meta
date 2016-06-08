@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: efa0eb1d2e327784c88b47a96adc9ac8
+timeCreated: 1465302762
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_Lower_L
+    100002: Arm_Lower_R
+    100004: Arm_Upper_L
+    100006: Arm_Upper_R
+    100008: Armature
+    100010: Body
+    100012: Character Base (Floor)
+    100014: Chest
+    100016: Chin
+    100018: Chin_end
+    100020: Control_Arm_L
+    100022: Control_Arm_R
+    100024: Control_Eyelids_L
+    100026: Control_Eyelids_L_end
+    100028: Control_Eyelids_R
+    100030: Control_Eyelids_R_end
+    100032: Control_Eyes
+    100034: Control_Fingers_L
+    100036: Control_Fingers_L_end
+    100038: Control_Fingers_R
+    100040: Control_Fingers_R_end
+    100042: Control_Foot_L
+    100044: Control_Foot_R
+    100046: Control_Heel_L
+    100048: Control_Heel_L_end
+    100050: Control_Heel_R
+    100052: Control_Heel_R_end
+    100054: Eye Handle
+    100056: Eye_L
+    100058: Eye_L_end
+    100060: Eye_R
+    100062: Eye_R_end
+    100064: Eyelashes
+    100066: Eyelid_Lower_L
+    100068: Eyelid_Lower_L_end
+    100070: Eyelid_Lower_R
+    100072: Eyelid_Lower_R_end
+    100074: Eyelid_Upper_L
+    100076: Eyelid_Upper_L_end
+    100078: Eyelid_Upper_R
+    100080: Eyelid_Upper_R_end
+    100082: //RootNode
+    100084: Foot Handle
+    100086: Foot_L
+    100088: Foot_R
+    100090: Generic Handle
+    100092: Generic Handle Half
+    100094: Generic Handle Semi
+    100096: Generic Handle Semi-Half
+    100098: Generic Plane Handle
+    100100: Hand_L
+    100102: Hand_R
+    100104: Head
+    100106: Hips
+    100108: Indexfinger1_L
+    100110: Indexfinger1_R
+    100112: Indexfinger2_L
+    100114: Indexfinger2_R
+    100116: Indexfinger3_L
+    100118: Indexfinger3_L_end
+    100120: Indexfinger3_R
+    100122: Indexfinger3_R_end
+    100124: Leg_Lower_L
+    100126: Leg_Lower_L_end
+    100128: Leg_Lower_R
+    100130: Leg_Lower_R_end
+    100132: Leg_Upper_L
+    100134: Leg_Upper_R
+    100136: Look Area
+    100138: Main
+    100140: Middlefinger1_L
+    100142: Middlefinger1_R
+    100144: Middlefinger2_L
+    100146: Middlefinger2_R
+    100148: Middlefinger3_L
+    100150: Middlefinger3_L_end
+    100152: Middlefinger3_R
+    100154: Middlefinger3_R_end
+    100156: Neck
+    100158: Pinky1_L
+    100160: Pinky1_R
+    100162: Pinky2_L
+    100164: Pinky2_R
+    100166: Pinky3_L
+    100168: Pinky3_L_end
+    100170: Pinky3_R
+    100172: Pinky3_R_end
+    100174: Placeholder4Weapon
+    100176: Pole Handle
+    100178: Precision Pole Handle
+    100180: PT_Elbow_L
+    100182: PT_Elbow_L_end
+    100184: PT_Elbow_R
+    100186: PT_Elbow_R_end
+    100188: PT_Knee_L
+    100190: PT_Knee_L_end
+    100192: PT_Knee_R
+    100194: PT_Knee_R_end
+    100196: Ringfinger1_L
+    100198: Ringfinger1_R
+    100200: Ringfinger2_L
+    100202: Ringfinger2_R
+    100204: Ringfinger3_L
+    100206: Ringfinger3_L_end
+    100208: Ringfinger3_R
+    100210: Ringfinger3_R_end
+    100212: RockingBone_Foot_L
+    100214: RockingBone_Foot_R
+    100216: RP_Foot_L
+    100218: RP_Foot_R
+    100220: Shoulder_L
+    100222: Shoulder_R
+    100224: Target_Eye_L
+    100226: Target_Eye_L_end
+    100228: Target_Eye_R
+    100230: Target_Eye_R_end
+    100232: Thumb1_L
+    100234: Thumb1_R
+    100236: Thumb2_L
+    100238: Thumb2_R
+    100240: Thumb3_L
+    100242: Thumb3_L_end
+    100244: Thumb3_R
+    100246: Thumb3_R_end
+    100248: Toes_L
+    100250: Toes_L_end
+    100252: Toes_R
+    100254: Toes_R_end
+    100256: Waist
+    100258: X Axis Only Rotation
+    400000: Arm_Lower_L
+    400002: Arm_Lower_R
+    400004: Arm_Upper_L
+    400006: Arm_Upper_R
+    400008: Armature
+    400010: Body
+    400012: Character Base (Floor)
+    400014: Chest
+    400016: Chin
+    400018: Chin_end
+    400020: Control_Arm_L
+    400022: Control_Arm_R
+    400024: Control_Eyelids_L
+    400026: Control_Eyelids_L_end
+    400028: Control_Eyelids_R
+    400030: Control_Eyelids_R_end
+    400032: Control_Eyes
+    400034: Control_Fingers_L
+    400036: Control_Fingers_L_end
+    400038: Control_Fingers_R
+    400040: Control_Fingers_R_end
+    400042: Control_Foot_L
+    400044: Control_Foot_R
+    400046: Control_Heel_L
+    400048: Control_Heel_L_end
+    400050: Control_Heel_R
+    400052: Control_Heel_R_end
+    400054: Eye Handle
+    400056: Eye_L
+    400058: Eye_L_end
+    400060: Eye_R
+    400062: Eye_R_end
+    400064: Eyelashes
+    400066: Eyelid_Lower_L
+    400068: Eyelid_Lower_L_end
+    400070: Eyelid_Lower_R
+    400072: Eyelid_Lower_R_end
+    400074: Eyelid_Upper_L
+    400076: Eyelid_Upper_L_end
+    400078: Eyelid_Upper_R
+    400080: Eyelid_Upper_R_end
+    400082: //RootNode
+    400084: Foot Handle
+    400086: Foot_L
+    400088: Foot_R
+    400090: Generic Handle
+    400092: Generic Handle Half
+    400094: Generic Handle Semi
+    400096: Generic Handle Semi-Half
+    400098: Generic Plane Handle
+    400100: Hand_L
+    400102: Hand_R
+    400104: Head
+    400106: Hips
+    400108: Indexfinger1_L
+    400110: Indexfinger1_R
+    400112: Indexfinger2_L
+    400114: Indexfinger2_R
+    400116: Indexfinger3_L
+    400118: Indexfinger3_L_end
+    400120: Indexfinger3_R
+    400122: Indexfinger3_R_end
+    400124: Leg_Lower_L
+    400126: Leg_Lower_L_end
+    400128: Leg_Lower_R
+    400130: Leg_Lower_R_end
+    400132: Leg_Upper_L
+    400134: Leg_Upper_R
+    400136: Look Area
+    400138: Main
+    400140: Middlefinger1_L
+    400142: Middlefinger1_R
+    400144: Middlefinger2_L
+    400146: Middlefinger2_R
+    400148: Middlefinger3_L
+    400150: Middlefinger3_L_end
+    400152: Middlefinger3_R
+    400154: Middlefinger3_R_end
+    400156: Neck
+    400158: Pinky1_L
+    400160: Pinky1_R
+    400162: Pinky2_L
+    400164: Pinky2_R
+    400166: Pinky3_L
+    400168: Pinky3_L_end
+    400170: Pinky3_R
+    400172: Pinky3_R_end
+    400174: Placeholder4Weapon
+    400176: Pole Handle
+    400178: Precision Pole Handle
+    400180: PT_Elbow_L
+    400182: PT_Elbow_L_end
+    400184: PT_Elbow_R
+    400186: PT_Elbow_R_end
+    400188: PT_Knee_L
+    400190: PT_Knee_L_end
+    400192: PT_Knee_R
+    400194: PT_Knee_R_end
+    400196: Ringfinger1_L
+    400198: Ringfinger1_R
+    400200: Ringfinger2_L
+    400202: Ringfinger2_R
+    400204: Ringfinger3_L
+    400206: Ringfinger3_L_end
+    400208: Ringfinger3_R
+    400210: Ringfinger3_R_end
+    400212: RockingBone_Foot_L
+    400214: RockingBone_Foot_R
+    400216: RP_Foot_L
+    400218: RP_Foot_R
+    400220: Shoulder_L
+    400222: Shoulder_R
+    400224: Target_Eye_L
+    400226: Target_Eye_L_end
+    400228: Target_Eye_R
+    400230: Target_Eye_R_end
+    400232: Thumb1_L
+    400234: Thumb1_R
+    400236: Thumb2_L
+    400238: Thumb2_R
+    400240: Thumb3_L
+    400242: Thumb3_L_end
+    400244: Thumb3_R
+    400246: Thumb3_R_end
+    400248: Toes_L
+    400250: Toes_L_end
+    400252: Toes_R
+    400254: Toes_R_end
+    400256: Waist
+    400258: X Axis Only Rotation
+    2300000: Character Base (Floor)
+    2300002: Eye Handle
+    2300004: Foot Handle
+    2300006: Generic Handle
+    2300008: Generic Handle Half
+    2300010: Generic Handle Semi
+    2300012: Generic Handle Semi-Half
+    2300014: Generic Plane Handle
+    2300016: Look Area
+    2300018: Placeholder4Weapon
+    2300020: Pole Handle
+    2300022: Precision Pole Handle
+    2300024: X Axis Only Rotation
+    3300000: Character Base (Floor)
+    3300002: Eye Handle
+    3300004: Foot Handle
+    3300006: Generic Handle
+    3300008: Generic Handle Half
+    3300010: Generic Handle Semi
+    3300012: Generic Handle Semi-Half
+    3300014: Generic Plane Handle
+    3300016: Look Area
+    3300018: Placeholder4Weapon
+    3300020: Pole Handle
+    3300022: Precision Pole Handle
+    3300024: X Axis Only Rotation
+    4300000: Look Area
+    4300002: Eye Handle
+    4300004: Precision Pole Handle
+    4300006: Generic Handle Semi
+    4300008: Generic Plane Handle
+    4300010: Generic Handle Semi-Half
+    4300012: Placeholder4Weapon
+    4300014: Eyelashes
+    4300016: Body
+    4300018: Foot Handle
+    4300020: Generic Handle
+    4300022: Generic Handle Half
+    4300024: Pole Handle
+    4300026: X Axis Only Rotation
+    4300028: Character Base (Floor)
+    9500000: //RootNode
+    13700000: Body
+    13700002: Eyelashes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
